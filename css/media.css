@@ -1,0 +1,870 @@
+@media (max-width: 1199.98px) {  }
+@media (max-width: 991.98px) { 
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 30px;
+    }
+    .navbar-nav{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .navbar-nav .nav-item{
+        border-bottom: 1px solid #23263a;
+    }
+    #bannerbg {
+        padding: 40px 0;
+    }
+    .ban_text {
+        margin-top: 25px;
+    }
+    .social i {
+        font-size: 25px;
+        height: 50px;
+        width: 50px;
+        text-align: center;
+        line-height: 50px;
+        margin-right: 15px;
+    }
+    .ban_intro h1 {
+        margin-top: 15px;
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .ban_intro p {
+        font-size: 25px;
+        line-height: 30px;
+        margin-bottom: 25px;
+    }
+    .ban_btn {
+        padding: 20px 25px;
+        font-size: 20px;
+        margin-top: 15px;
+        margin-right: 15px;
+    }
+    .ban_intro i {
+        padding: 20px 25px;
+        font-size: 25px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+}
+#serbg {
+	padding: 40px 0;
+}
+.ser_head span {
+	font-size: 18px;
+	margin-bottom: 15px;
+}
+.ser_head h2 {
+	font-size: 25px;
+	margin-top: 15px;
+}
+.ser_head {
+	width: 600px;
+}
+.ser_head p {
+	font-size: 18px;
+	line-height: 28px;
+	padding-bottom: 25px;
+	margin-bottom: 45px;
+}
+.ser_item {
+	padding: 20px 20px;	
+    margin-bottom: 25px;
+    text-align: center;
+}
+.ser_item h3 {
+	font-size: 25px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.ser_item i {
+	font-size: 35px;
+}
+.ser_item p {
+	font-size: 20px;
+	line-height: 28px;
+}
+#aboutbg {
+	padding: 40px 0;
+}
+.ser_head h2 {
+    font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.abtext {
+	padding-top: 30px;
+}
+.abtext h3 {
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+.abtext p {
+	font-size: 20px;
+	line-height: 28px;
+	margin-bottom: 25px;
+}
+.nmph {
+	margin-bottom: 20px;
+}
+
+#workbg {
+	padding: 40px 0;
+}
+.worktext h3 {
+	font-size: 25px;;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.worktext p {
+	font-size: 20px;
+	line-height: 28px;
+}
+.threemain {
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.worktext{
+    margin-bottom: 30px;
+}
+/* Portfolio */
+#portbg {
+	padding: 40px 0;
+}
+.port_btns {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 45px;
+}
+.pbtn {
+	padding: 20px 20px;
+	font-size: 15px;	
+    margin-right: 10px;
+}
+#pricingbg {
+	padding: 40px 0;
+}
+.pricetable {
+    padding: 20px 20px;
+    margin-bottom: 45px;
+}
+.pricetable h3 {
+	font-size: 28px;
+}
+.pricetable span {
+	font-size: 55px;
+}
+#funbg {
+	padding: 40px 0;
+}
+#funbg i {
+	font-size: 45px;
+}
+#funbg p {
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#funbg h5 {
+	font-size: 28px;
+}
+.cpay{
+    margin-bottom: 45px;
+    padding: 25px 0;
+}
+#clientbg {
+	padding: 35px 0;
+}
+.clleft span {
+	font-size: 20px;
+}
+.clleft h3 {
+	font-size: 25px;
+	margin-top: 20px;
+}
+.clleft p {
+	font-size: 18px;
+	line-height: 28px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.clmain {
+	margin-top: 20px;
+}
+.slidearrow{
+    text-align: center;
+    margin-top: 20px;
+}
+#partbg {
+	padding: 40px 0;
+}
+.partners{
+    width: 47%;
+    text-align: center;
+    margin-bottom: 35px;
+}
+.extra_center{
+    width: 98%;
+}
+#blogbg {
+	padding: 40px 0 ;
+}
+.blog-main {
+	margin-top: 30px;
+}
+.blog_head h4 {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.blog_text .by {
+	font-size: 18px;
+	margin-right: 15px;
+}
+.blog_text .tuesday {
+	font-size: 20px;
+	margin-right: 15px;
+}
+.blog_head .read {
+	font-size: 18px;
+}
+.read_more i{
+    font-size: 18px;
+}
+#contact {
+	padding: 40px 0;
+;
+}
+.inform {
+	padding: 20px;
+	margin-top: 20px;
+}
+.inform span {
+	font-size: 18px;
+}
+.inform p {
+	font-size: 18px;
+}
+.inform i {
+	font-size: 35px;
+	margin-top: 15px;
+}
+.form_main{
+    text-align: center;
+}
+.btnextra_center{
+    margin: 0 auto;
+}
+#amike {
+	padding: 40px 0;
+}
+.amikemain img {
+	width: 140px;
+}
+.amikemain {
+    width: 600px;
+    
+}
+.amikemain p {
+	font-size: 18px;
+	line-height: 28px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#copybg .copyright {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+#copybg .copyright p {
+	font-size: 18px;
+} 
+ }
+
+
+ }
+ }
+/* Small Responsive css start */
+@media (max-width: 767.98px) { 
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 25px;
+    }
+    .navbar-nav{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-nav .nav-item{
+        border-bottom: 1px solid #23263a;
+    }
+    #bannerbg {
+        padding: 15px 0 0;
+    }
+    .ban_text {
+        margin-top: 20px;
+    }
+    .social i {
+        font-size: 20px;
+        height: 40px;
+        width: 40px;
+        text-align: center;
+        line-height: 40px;
+        margin-right: 10px;
+    }
+    .ban_intro h1 {
+        margin-top: 10px;
+        font-size: 32px;
+        margin-bottom: 10px;
+    }
+    .ban_intro p {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .ban_btn {
+        padding: 15px 20px;
+        font-size: 15px;
+        margin-top: 5px;
+        margin-right: 10px;
+    }
+    .ban_intro i {
+        padding: 15px 20px;
+        font-size: 20px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+}
+#serbg {
+	padding: 30px 0;
+}
+.ser_head span {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.ser_head h2 {
+	font-size: 23px;
+	margin-top: 10px;
+}
+.ser_head {
+	width: 500px;
+}
+.ser_head p {
+	font-size: 14px;
+	line-height: 23px;
+	padding-bottom: 20px;
+	margin-bottom: 40px;
+}
+.ser_item {
+	padding: 15px 15px;	
+    margin-bottom: 20px;
+    text-align: center;
+}
+.ser_item h3 {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.ser_item i {
+	font-size: 30px;
+}
+.ser_item p {
+	font-size: 15px;
+	line-height: 24px;
+}
+#aboutbg {
+	padding: 23px 0;
+}
+.ser_head h2 {
+    font-size: 23px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+.abtext {
+	padding-top: 25px;
+}
+.abtext h3 {
+	font-size: 23px;
+	margin-bottom: 15px;
+}
+.abtext p {
+	font-size: 15px;
+	line-height: 24px;
+	margin-bottom: 20px;
+}
+.nmph {
+	margin-bottom: 15px;
+}
+
+#workbg {
+	padding: 30px 0;
+}
+.worktext h3 {
+	font-size: 23px;;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+.worktext p {
+	font-size: 15px;
+	line-height: 24px;
+}
+.threemain {
+
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.worktext{
+    margin-bottom: 25px;
+}
+/* Portfolio */
+#portbg {
+	padding: 30px 0;
+}
+.port_btns {
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 40px;
+}
+.pbtn {
+	padding: 15px 15px;
+	font-size: 12px;	
+    margin-right: 5px;
+}
+#pricingbg {
+	padding: 30px 0;
+}
+.pricetable {
+    padding: 15px 15px;
+    margin-bottom: 40px;
+}
+.pricetable h3 {
+	font-size: 24px;
+}
+.pricetable span {
+	font-size: 50px;
+}
+#funbg {
+	padding: 30px 0;
+}
+#funbg i {
+	font-size: 40px;
+}
+#funbg p {
+	font-size: 25px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#funbg h5 {
+	font-size: 24px;
+}
+.cpay{
+    margin-bottom: 40px;
+    padding: 20px 0;
+}
+#clientbg {
+	padding: 30px 0;
+}
+.clleft span {
+	font-size: 15px;
+}
+.clleft h3 {
+	font-size: 23px;
+	margin-top: 15px;
+}
+.clleft p {
+	font-size: 15px;
+	line-height: 24px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.clmain {
+	margin-top: 15px;
+}
+.slidearrow{
+    text-align: center;
+    margin-top: 15px;
+}
+#partbg {
+	padding: 30px 0;
+}
+.partners{
+    width: 47%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.extra_center{
+    width: 98%;
+}
+#blogbg {
+	padding: 30px 0 ;
+}
+.blog-main {
+	margin-top: 25px;
+}
+.blog_head h4 {
+	font-size: 18px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.blog_text .by {
+	font-size: 15px;
+	margin-right: 10px;
+}
+.blog_text .tuesday {
+	font-size: 15px;
+	margin-right: 10px;
+}
+.blog_head .read {
+	font-size: 15px;
+}
+.read_more i{
+    font-size: 15px;
+}
+#contact {
+	padding: 30px 0;
+;
+}
+.inform {
+	padding: 15px;
+	margin-top: 15px;
+}
+.inform span {
+	font-size: 15px;
+}
+.inform p {
+	font-size: 15px;
+}
+.inform i {
+	font-size: 30px;
+	margin-top: 10px;
+}
+.form_main{
+    text-align: center;
+}
+.btnextra_center{
+    margin: 0 auto;
+}
+#amike {
+	padding: 30px 0;
+}
+.amikemain img {
+	width: 120px;
+}
+.amikemain {
+    width: 500px;
+    
+}
+.amikemain p {
+	font-size: 15px;
+	line-height: 24px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#copybg .copyright {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+#copybg .copyright p {
+	font-size: 15px;
+} 
+ }
+
+
+ }
+ /* Small Responsive css End */
+
+/* Extra Small Responsive csss start */
+@media (max-width: 575.98px) { 
+.navbar-toggler i{
+    color: #fff;
+    font-size: 25px;
+}
+.navbar-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-nav .nav-item{
+    border-bottom: 1px solid #23263a;
+}
+#bannerbg {
+	padding: 0px 0 0;
+}
+.ban_text {
+	margin-top: 15px;
+}
+.social i {
+    font-size: 15px;
+	height: 30px;
+	width: 30px;
+    text-align: center;
+	line-height: 30px;
+	margin-right: 5px;
+}
+.ban_intro h1 {
+	margin-top: 5px;
+	font-size: 28px;
+	margin-bottom: 5px;
+}
+.ban_intro p {
+    font-size: 16px;
+    line-height: 20px;
+}
+.ban_btn {
+	padding: 5px 10px;
+	font-size: 10px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+.ban_intro i {
+	padding: 5px 10px;
+	font-size: 10px;
+}
+/* service part responsive */
+#serbg {
+	padding: 20px 0;
+}
+.ser_head span {
+	font-size: 10px;
+	margin-bottom: 5px;
+}
+.ser_head h2 {
+	font-size: 20px;
+	margin-top: 5px;
+}
+.ser_head {
+	width: 300px;
+}
+.ser_head p {
+	font-size: 12px;
+	line-height: 20px;
+	padding-bottom: 15px;
+	margin-bottom: 30px;
+}
+.ser_item {
+	padding: 10px 10px;	
+    margin-bottom: 15px;
+    text-align: center;
+}
+.ser_item h3 {
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.ser_item i {
+	font-size: 30px;
+}
+.ser_item p {
+	font-size: 13px;
+	line-height: 20px;
+}
+/* about part  */
+#aboutbg {
+	padding: 20px 0;
+}
+.ser_head h2 {
+    font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.abtext {
+	padding-top: 20px;
+}
+.abtext h3 {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.abtext p {
+	font-size: 13px;
+	line-height: 20px;
+	margin-bottom: 15px;
+}
+.nmph {
+	margin-bottom: 10px;
+}
+#workbg {
+	padding: 20px 0;
+}
+.worktext h3 {
+	font-size: 20px;;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.worktext p {
+	font-size: 13px;
+	line-height: 20px;
+}
+.threemain {
+	width: 100%;
+	height: 5px;
+	background-color: #23263a;
+	position: relative;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.worktext{
+    margin-bottom: 20px;
+}
+/* Portfolio */
+#portbg {
+	padding: 20px 0;
+}
+.port_btns {
+	text-align: center;
+	margin-top: 12px;
+	margin-bottom: 15px;
+}
+.pbtn {
+	padding: 5px 10px;
+	font-size: 10px;	
+    margin-right: 5px;
+    margin-bottom: 15px;
+}
+#pricingbg {
+	padding: 20px 0;
+}
+.pricetable {
+    padding: 10px 10px;
+    margin-bottom: 30px;
+}
+.pricetable h3 {
+	font-size: 20px;
+}
+.pricetable span {
+	font-size: 40px;
+}
+#funbg {
+	padding: 20px 0;
+}
+#funbg i {
+	font-size: 30px;
+}
+#funbg p {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#funbg h5 {
+	font-family: Poppins;
+	font-size: 20px;
+	color: #dfdfdf;
+	font-weight: 300;
+}
+.cpay{
+    margin-bottom: 35px;
+    border: 1px solid #1F2235;
+    padding: 10px 0;
+}
+#clientbg {
+	padding: 20px 0;
+}
+.clleft span {
+	font-size: 12px;
+}
+.clleft h3 {
+	font-size: 20px;
+	margin-top: 10px;
+}
+.clleft p {
+	font-size: 13px;
+	line-height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.clmain {
+	margin-top: 10px;
+}
+.slidearrow{
+    text-align: center;
+    margin-top: 10px;
+}
+#partbg {
+	padding: 20px 0;
+}
+.partners{
+    width: 47%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.extra_center{
+    width: 98%;
+}
+#blogbg {
+	padding: 20px 0 ;
+}
+.blog-main {
+	margin-top: 20px;
+}
+.blog_head h4 {
+	font-size: 13px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.blog_text .by {
+	font-size: 12px;
+	margin-right: 5px;
+}
+.blog_text .tuesday {
+	font-size: 12px;
+	margin-right: 5px;
+}
+.blog_head .read {
+	font-size: 13px;
+}
+.read_more i{
+    font-size: 12px;
+}
+#contact {
+	padding: 20px 0;
+;
+}
+.inform {
+	padding: 10px;
+	margin-top: 10px;
+}
+.inform span {
+	font-size: 13px;
+}
+.inform p {
+	font-size: 13px;
+}
+.inform i {
+	font-size: 25px;
+	margin-top: 5px;
+}
+.form_main{
+    text-align: center;
+}
+.btnextra_center{
+    margin: 0 auto;
+}
+#amike {
+	padding: 20px 0;
+}
+.amikemain img {
+	width: 100px;
+}
+.amikemain {
+	width: 300px;
+}
+.amikemain p {
+	font-size: 13px;
+	line-height: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#copybg .copyright {
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+#copybg .copyright p {
+	font-size: 12px;
+} 
+ }
+ /* Extra Small Responsive csss start */
