@@ -63,7 +63,7 @@ img {
   position: fixed;
   width: 100%;
   z-index: 4545455454;
-  -webkit-animation: menu 2s; }
+  } 
 
 @keyframes menu {
   from {
